@@ -1,2 +1,6 @@
 # gradiant-cards-hover
-Gradiant colored cards with hover
+Pure CSS3 and HTML cards with hover effects.
+
+1 - Download
+2 - Open index.html
+3 - Enjoy
